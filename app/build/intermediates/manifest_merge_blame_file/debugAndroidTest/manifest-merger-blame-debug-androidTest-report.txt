@@ -3,35 +3,35 @@
 3    package="com.example.pi.test" >
 4
 5    <uses-sdk
-5-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:5:5-74
+5-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:5:5-74
 6        android:minSdkVersion="16"
-6-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:5:15-41
+6-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:5:42-71
+7-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:5:42-71
 8
 9    <instrumentation
-9-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:11:5-15:64
+9-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:11:5-15:64
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:11:22-76
+10-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:11:22-76
 11        android:functionalTest="false"
-11-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:14:22-52
+11-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:14:22-52
 12        android:handleProfiling="false"
-12-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:13:22-53
+12-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:13:22-53
 13        android:label="Tests for com.example.pi"
-13-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:15:22-62
+13-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:15:22-62
 14        android:targetPackage="com.example.pi" />
-14-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:12:22-60
+14-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:12:22-60
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.1.0] F:\projects\android_core-master\.gradle\caches\transforms-2\files-2.1\b700bfc0f9180812ac817088e66c00b6\core-1.1.0\AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.1.0] F:\projects\android_core-master\.gradle\caches\transforms-2\files-2.1\b700bfc0f9180812ac817088e66c00b6\core-1.1.0\AndroidManifest.xml:24:22-69
 17
 18    <application android:debuggable="true" >
-18-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:7:5-9:19
-18-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:7:18-43
+18-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:7:5-9:19
+18-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:7:18-43
 19        <uses-library android:name="android.test.runner" />
-19-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:8:9-60
-19-->F:\123\pi\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1396217987337347520.xml:8:23-57
+19-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:8:9-60
+19-->F:\123\montecarlo\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2840178017569048171.xml:8:23-57
 20
 21        <activity
 21-->[androidx.test:core:1.1.0] F:\projects\android_core-master\.gradle\caches\transforms-2\files-2.1\b700bfc0f9180812ac817088e66c00b6\core-1.1.0\AndroidManifest.xml:27:9-33:20
