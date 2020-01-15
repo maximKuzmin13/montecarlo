@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">pi</string>
+    <string name="load">string</string>
+    <string name="generation">Сгенерированное число Пи: </string>
+    <string name="canceled">Операция отменена</string>
+    <string name="dots">Введите число точек</string>
+    <string name="result">Вычислить</string>
+    <string name="cancel">Отмена</string>
 </resources>
